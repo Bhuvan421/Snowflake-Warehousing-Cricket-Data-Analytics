@@ -16,4 +16,4 @@ Here is the sample data hierarchyu of data (each of these nodes have different l
 4. Preprocessed and cleaned the data - clean stage
 5. Designed and implemented fact and dimention tables - loading stage
 6. Automated the entire data pipeline using tasks and streams - automation stage
-7. Connect to an external visulaization tool (Tableau/PowerBI). Can be done inside snowflake as well -- (Will be added soon)
+7. Connect to an external visualization tool (Tableau/PowerBI). Can be done inside snowflake as well -- (Will be added soon) - visualize and strategy/decision making stage
