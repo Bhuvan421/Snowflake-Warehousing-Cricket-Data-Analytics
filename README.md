@@ -6,3 +6,4 @@ The data is highly unstructured with about 10 times flattening the data brings u
 
 Here is the sample data hierarchyu of data (each of these nodes have different levels of children)
 
+![Alt text](https://github.com/Bhuvan421/Snowflake-Warehousing-Cricket-Data-Analytics/blob/efc537f874cfc292cc6c930d56f27f917aeab1f4/sample-data-hierarchy.png)
