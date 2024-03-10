@@ -1,4 +1,4 @@
-# Snowflake-Warehousing-Cricket-Data-Analytics
+# Snowflake-Warehousing-Cricket-Data-Warehousing-Analytics
 
 This is an end to end Data Engineering project using snowflake cloud datawarehouse to preprocess and transform the deeply nested unstructured data into a clean structured data ready for analysis and visualization. 
 The data is about the game called "CRICKET" (Yes, there is a very popular and very much entertaining game called cricket, its not an insect! for those that do not know.😊) 
