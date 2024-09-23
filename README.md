@@ -11,9 +11,9 @@ Here is the sample data hierarchy of data (each of these nodes have different le
 
 #### Work done in the project:
 1. Load the data from external stage (S3) into snowflake (using SnowSQL) - extract stage
-2. Copied the staging data into a raw transient table - raw stage
-3. As per needs, fetched/transformed necessary data into silver staging tables - clean stage
-4. Preprocessed, cleaned and staged data to a gold layer - clean stage
-5. Designed and implemented fact and dimention tables - loading stage
+2. Copied the staging data into respective raw transient tables - raw stage
+3. Preprocessed, cleaned and transformed data into silver layer tables - clean aggregated stage
+4. As per needs, fetched, transformed, and aggregated necessary data into gold staging tables - clean aggregated stage
+5. Designed and implemented data modelling following all dimentional modelling rules and designed fact and dimention tables - loading stage
 6. Automated the entire data pipeline using tasks and streams - automation stage
-7. Connected to an external visualization tool Tableau. (Can be done inside snowflake as well) -- visualize and strategy/decision making stage
+7. Connected to an external visualization/dashboarding tool Tableau. (Can be done inside snowflake as well) -- visualize and strategy/decision making stage
