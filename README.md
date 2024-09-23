@@ -10,7 +10,7 @@ Here is the sample data hierarchy of data (each of these nodes have different le
 
 
 #### Work done in the project:
-1. Load the data from external stage (S3) into snowflake (used SnowSQL) - extract stage
+1. Load the data from external stage (S3) into snowflake (using SnowSQL) - extract stage
 2. Copied the staging data into a raw transient table - raw stage
 3. As per needs, fetched/transformed necessary data into silver staging tables - clean stage
 4. Preprocessed, cleaned and staged data to a gold layer - clean stage
